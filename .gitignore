@@ -1,0 +1,8 @@
+*.orig
+*.dll
+*.exe
+*.userprefs
+DMPPortPlugin/bin/*
+DMPPortPlugin/obj/*
+*.suo
+*.csproj.user
